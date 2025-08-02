@@ -1,6 +1,6 @@
 # 🚀 PortHunter – Advanced Port Scanner & Service Enumerator
 
-PortHunter3.0 is an advanced Python-based port scanning and service enumeration tool built for penetration testers, red teamers, and cybersecurity professionals. Unlike traditional scanners, PortHunter3.0:
+PortHunter is an advanced Python-based port scanning and service enumeration tool built for penetration testers, red teamers, and cybersecurity professionals. Unlike traditional scanners, PortHunter3.0:
 
 - Actively probes open ports  
 - Extracts service banners & versions  
